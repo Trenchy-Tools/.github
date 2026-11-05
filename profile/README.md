@@ -11,6 +11,7 @@
 | [**trenchytools-pumpfun-launcher**](https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher) | Wallets, Jito-bundled launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, trading with timed sells, vanity mints. Solana. | [pumpfun.trenchy.tools](https://pumpfun.trenchy.tools) |
 | [**trenchytools-pons-launcher**](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Launch and trade on pons, curve and Uniswap v4. Robinhood Chain. | [pons.trenchy.tools](https://pons.trenchy.tools) |
 | [**trenchytools-wallet-mover**](https://github.com/Trenchy-Tools/trenchytools-wallet-mover) | Create wallets, split, distribute and consolidate funds, direct or through an exchange, same chain or cross-chain. | [mover.trenchy.tools](https://mover.trenchy.tools) |
+| [**trenchytools-elysium-launcher**](https://github.com/Trenchy-Tools/trenchytools-elysium-launcher) ⚗️ | Launch on Ascend, bundle, stagger and auto-sell straight against the chain, with pre-signed exits. Elysium (Hyperliquid L2), experimental / pre-mainnet. | [elysium.trenchy.tools](https://elysium.trenchy.tools) |
 
 All three share one wallet folder, so a wallet made in one is usable in the others. Try each one in the browser first (your wallets stay in your browser; download the backup before funding), or clone it, paste your key and `npm run dev`.
 
@@ -38,4 +39,5 @@ Paste into your coding agent:
 
 - **Solana**: pump.fun create, buy and sell, including custom pairs (coins priced in stocks, USDC or other coins) and Mayhem mode; PumpSwap after graduation; Jito bundles; vanity mints; creator fees; live websocket.
 - **Robinhood Chain**: pons create, buy and sell on the curve and on Uniswap v4; live trades.
+- **Elysium** *(experimental, pre-public-mainnet)*: Ascend launches on the Hyperliquid L2 (chain 99901, HYPE gas) — create, buy, sell, creator-fee claims, a per-wallet trading desk, and a live relay picker.
 - **Wallets**: direct or exchange-routed transfers, same chain or cross-chain, with live venue health.
