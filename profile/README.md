@@ -1,6 +1,6 @@
 <p align="center"><img src="./banner.png" alt="TrenchyTools API" width="100%"></p>
 
-<p align="center">📖 <a href="https://trenchy.tools/docs">Docs</a> · 🔑 <a href="https://api.trenchy.tools/api/create-api-key">Get an API key</a> · 🤖 <a href="https://api.trenchy.tools/AGENTS.md">AGENTS.md</a> · 🧩 <a href="https://api.trenchy.tools/openapi.json">OpenAPI</a> · 🟢 <a href="https://trenchy.tools/status">Status</a></p>
+<p align="center"><a href="https://trenchy.tools/docs">Docs</a> · <a href="https://api.trenchy.tools/api/create-api-key">Get an API key</a> · <a href="https://api.trenchy.tools/AGENTS.md">AGENTS.md</a> · <a href="https://api.trenchy.tools/openapi.json">OpenAPI</a> · <a href="https://trenchy.tools/status">Status</a> · <a href="https://t.me/trenchytools"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="14" alt="Telegram"> Telegram</a> · <a href="https://x.com/trenchytools"><img src="https://cdn.simpleicons.org/x/1d9bf0" height="14" alt="X"> X</a></p>
 
 ### Live demos
 
@@ -12,11 +12,9 @@ Open any of them in the browser — wallets are created locally and stay in your
 
 ### Community
 
-| | where |
-|---|---|
-| 💬 **Telegram channel** — announcements, new starters, uptime | **[@trenchytools](https://t.me/trenchytools)** |
-| 🛠 **Dev / support** — questions, bugs, feature asks | **[@dogtoshi_x](https://t.me/dogtoshi_x)** |
-| 𝕏 **X** | **[@dogtoshi_x](https://x.com/dogtoshi_x)** · [@trenchytools](https://x.com/trenchytools) |
+<p><a href="https://t.me/trenchytools"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16" alt="Telegram"> <b>Telegram channel</b></a> — announcements, new starters, uptime<br>
+<a href="https://t.me/dogtoshi_x"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16" alt="Telegram"> <b>Dev / support</b></a> — questions, bugs, feature asks<br>
+<a href="https://x.com/dogtoshi_x"><img src="https://cdn.simpleicons.org/x/1d9bf0" height="16" alt="X"> <b>X</b></a> — @dogtoshi_x</p>
 
 
 ### Starters
