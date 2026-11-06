@@ -1,6 +1,6 @@
 <p align="center"><img src="./banner.png" alt="TrenchyTools API" width="100%"></p>
 
-<p align="center"><a href="https://trenchy.tools/docs">Docs</a> · <a href="https://api.trenchy.tools/api/create-api-key">Get an API key</a> · <a href="https://api.trenchy.tools/AGENTS.md">AGENTS.md</a> · <a href="https://api.trenchy.tools/openapi.json">OpenAPI</a> · <a href="https://trenchy.tools/status">Status</a> · <a href="https://t.me/trenchytools">Telegram</a> · <a href="https://x.com/trenchytools">X</a></p>
+<p align="center">📖 <a href="https://trenchy.tools/docs">Docs</a> · 🔑 <a href="https://api.trenchy.tools/api/create-api-key">Get an API key</a> · 🤖 <a href="https://api.trenchy.tools/AGENTS.md">AGENTS.md</a> · 🧩 <a href="https://api.trenchy.tools/openapi.json">OpenAPI</a> · 🟢 <a href="https://trenchy.tools/status">Status</a></p>
 
 ### Live demos
 
@@ -9,6 +9,15 @@
 Open any of them in the browser — wallets are created locally and stay in your browser.
 
 **TrenchyTools** is a trading and launch API for pump.fun, PumpSwap and pons. One API key replaces the RPC node, the Jito client and the IPFS keys: the API builds unsigned transactions, your code signs them locally, the API sends them.
+
+### Community
+
+| | where |
+|---|---|
+| 💬 **Telegram channel** — announcements, new starters, uptime | **[@trenchytools](https://t.me/trenchytools)** |
+| 🛠 **Dev / support** — questions, bugs, feature asks | **[@dogtoshi_x](https://t.me/dogtoshi_x)** |
+| 𝕏 **X** | **[@dogtoshi_x](https://x.com/dogtoshi_x)** · [@trenchytools](https://x.com/trenchytools) |
+
 
 ### Starters
 
