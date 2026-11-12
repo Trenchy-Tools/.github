@@ -15,10 +15,12 @@
 
 | Repo | What it is | Live demo |
 |---|---|---|
-| [**trenchytools-pumpfun-launcher**](https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher) | Wallets, Jito-bundled launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, trading with timed sells, vanity mints. Solana. | [pumpfun.trenchy.tools](https://pumpfun.trenchy.tools) |
-| [**trenchytools-pons-launcher**](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Launch and trade on pons, curve and Uniswap v4: bundled and later buyers, volume maker, auto-sell, live P/L. Robinhood Chain. | [pons.trenchy.tools](https://pons.trenchy.tools) |
+| [**trenchytools-pumpfun-launcher**](https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher) | Launch on pump.fun, StonkFun or LetsBonk. Jito-bundled pump.fun launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, timed sells, vanity mints. Solana. | [pumpfun.trenchy.tools](https://pumpfun.trenchy.tools) |
+| [**trenchytools-pons-launcher**](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Launch on pons, pools.trade, circus, Sushi or pools.fun and trade on the curve and Uniswap v4: bundled and later buyers, volume maker, auto-sell, live P/L. Robinhood Chain. | [pons.trenchy.tools](https://pons.trenchy.tools) |
 | [**trenchytools-bnb-launcher**](https://github.com/Trenchy-Tools/trenchytools-bnb-launcher) | Launch tax tokens on Flap, trade any Flap, four.meme or PancakeSwap coin. BNB Chain. | [bnb.trenchy.tools](https://bnb.trenchy.tools) |
 | [**trenchytools-base-launcher**](https://github.com/Trenchy-Tools/trenchytools-base-launcher) | Launch on Clanker V5 and trade on Uniswap v4. Base. | [base.trenchy.tools](https://base.trenchy.tools) |
+| [**trenchytools-eth-launcher**](https://github.com/Trenchy-Tools/trenchytools-eth-launcher) | Launch on Sender or Stockereum (pair with WETH, USDC or tokenized stocks) and trade on Uniswap. Ethereum. | [eth.trenchy.tools](https://eth.trenchy.tools) |
+| [**trenchytools-arc-launcher**](https://github.com/Trenchy-Tools/trenchytools-arc-launcher) | Launch on Tolly, Argus or pools.trade, USDC as gas. Arc. | [arc.trenchy.tools](https://arc.trenchy.tools) |
 | [**trenchytools-wallet-mover**](https://github.com/Trenchy-Tools/trenchytools-wallet-mover) | Create wallets, split, distribute and consolidate funds, direct or through an exchange, same chain or cross-chain. | [mover.trenchy.tools](https://mover.trenchy.tools) |
 | **trenchytools-elysium-launcher** 🔒 | Elysium (Hyperliquid L2) launcher. Private for now: if you are interested, DM [@dogtoshi_x](https://t.me/dogtoshi_x) on Telegram. | [elysium.trenchy.tools](https://elysium.trenchy.tools) |
 
