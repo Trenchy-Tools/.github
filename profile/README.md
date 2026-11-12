@@ -16,11 +16,13 @@
 | Repo | What it is | Live demo |
 |---|---|---|
 | [**trenchytools-pumpfun-launcher**](https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher) | Wallets, Jito-bundled launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, trading with timed sells, vanity mints. Solana. | [pumpfun.trenchy.tools](https://pumpfun.trenchy.tools) |
-| [**trenchytools-pons-launcher**](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Launch and trade on pons, curve and Uniswap v4. Robinhood Chain. | [pons.trenchy.tools](https://pons.trenchy.tools) |
+| [**trenchytools-pons-launcher**](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Launch and trade on pons, curve and Uniswap v4: bundled and later buyers, volume maker, auto-sell, live P/L. Robinhood Chain. | [pons.trenchy.tools](https://pons.trenchy.tools) |
+| [**trenchytools-bnb-launcher**](https://github.com/Trenchy-Tools/trenchytools-bnb-launcher) | Launch tax tokens on Flap, trade any Flap, four.meme or PancakeSwap coin. BNB Chain. | [bnb.trenchy.tools](https://bnb.trenchy.tools) |
+| [**trenchytools-base-launcher**](https://github.com/Trenchy-Tools/trenchytools-base-launcher) | Launch on Clanker V5 and trade on Uniswap v4. Base. | [base.trenchy.tools](https://base.trenchy.tools) |
 | [**trenchytools-wallet-mover**](https://github.com/Trenchy-Tools/trenchytools-wallet-mover) | Create wallets, split, distribute and consolidate funds, direct or through an exchange, same chain or cross-chain. | [mover.trenchy.tools](https://mover.trenchy.tools) |
 | **trenchytools-elysium-launcher** 🔒 | Elysium (Hyperliquid L2) launcher. Private for now: if you are interested, DM [@dogtoshi_x](https://t.me/dogtoshi_x) on Telegram. | [elysium.trenchy.tools](https://elysium.trenchy.tools) |
 
-All three share one wallet folder, so a wallet made in one is usable in the others. Try each one in the browser first (your wallets stay in your browser; download the backup before funding), or clone it, paste your key and `npm run dev`.
+They all share one wallet folder, so a wallet made in one is usable in the others. Try each one in the browser first (your wallets stay in your browser; download the backup before funding), or clone it, paste your key and `npm run dev`.
 
 ### 30-second start
 
