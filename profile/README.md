@@ -22,7 +22,7 @@
 | [**trenchytools-eth-launcher**](https://github.com/Trenchy-Tools/trenchytools-eth-launcher) | Launch on Sender or Stockereum (pair with WETH, USDC or tokenized stocks) and trade on Uniswap. Ethereum. | [eth.trenchy.tools](https://eth.trenchy.tools) |
 | [**trenchytools-arc-launcher**](https://github.com/Trenchy-Tools/trenchytools-arc-launcher) | Launch on Tolly, Argus or pools.trade, USDC as gas. Arc. | [arc.trenchy.tools](https://arc.trenchy.tools) |
 | [**trenchytools-wallet-mover**](https://github.com/Trenchy-Tools/trenchytools-wallet-mover) | Create wallets, split, distribute and consolidate funds, direct or through an exchange, same chain or cross-chain. | [mover.trenchy.tools](https://mover.trenchy.tools) |
-| **trenchytools-elysium-launcher** 🔒 | Elysium (Hyperliquid L2) launcher. Private for now: if you are interested, DM [@dogtoshi_x](https://t.me/dogtoshi_x) on Telegram. | [elysium.trenchy.tools](https://elysium.trenchy.tools) |
+| [**trenchytools-elysium-launcher**](https://github.com/Trenchy-Tools/trenchytools-elysium-launcher) | Launch on Montra, Ascend, Volta or BOXA, trade any Elysium coin. Elysium (Hyperliquid L2). | [elysium.trenchy.tools](https://elysium.trenchy.tools) |
 
 They all share one wallet folder, so a wallet made in one is usable in the others. Try each one in the browser first (your wallets stay in your browser; download the backup before funding), or clone it, paste your key and `npm run dev`.
 
